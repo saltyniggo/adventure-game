@@ -4,7 +4,7 @@
 #startup message
 print('Welcome to T.B.A.G.!')
 print('')
-
+oida
 #global variables
 current_room = 'outside'
 inventory = []
